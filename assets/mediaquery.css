@@ -1,0 +1,23 @@
+@media screen and (max-width: 960px){
+	#wrapper{
+		width: 81.25%;
+	}
+	#header li, a{
+		padding: 3px;
+		font-size: 13px;
+	}
+	#header form{
+		margin-top: -60px;
+	}
+	#daftar-artike{
+		width: 100%;
+	}
+	.artikel img{
+		margin-right: 50px;
+	}
+
+	@media screen(max-width: 480px) {
+		#header li, a{
+			padding: 3px;
+		}
+}
